@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lax Chan
 logo: /assets/img/logo.jpg
+is_project_page: false
