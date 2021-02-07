@@ -1,4 +1,4 @@
-## About me
+# About me
 
 I am a postdoctoral researcher at the Università degli Studi del Piemonte Orientale “Amedeo Avogadro”. My mentors are Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno) and Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia). 
 
