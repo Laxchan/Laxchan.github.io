@@ -2,6 +2,10 @@
 
 I am a postdoctoral researcher at the Università degli Studi del Piemonte Orientale “Amedeo Avogadro”. My mentors are Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno) and Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia). 
 
+## Research Interests
+
+Functional data analysis, in particular small-ball probability. 
+
 
 ## Core mathematics and statistics publications
 ### Markdown
