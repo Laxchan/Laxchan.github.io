@@ -32,14 +32,14 @@ _Uniform Distribution Theory_, **9** (2), 125–134. [Link](http://pcwww.liv.ac.
 
 1. Dryden, I. Goulding, J, Preston, S. and Chan, L (2020) Discussion of "Multiple-systems analysis for the quantification of modern slavery: classical and Bayesian approaches" by Silverman (Ian Dryden, James Goulding, Simon Preston, Lax Chan), _Journal of Royal Statistical Society, series A._ [Link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
 
-2. Chan, L and Grimm, U. (2017) Substitution-based sequences with absolutely continuous diffraction , _Journal of Physics: conference series_, **809** 012027 [Link](https://iopscience.iop.org/article/10.1088/1742-6596/809/1/012027)
+2. Chan, L and Grimm, U. (2017) Substitution-based sequences with absolutely continuous diffraction, _Journal of Physics: conference series_, **809** 012027 [Link](https://iopscience.iop.org/article/10.1088/1742-6596/809/1/012027)
 
 ## PhD thesis and miscellany
 
-1. Perez, I, Chan, L., Torres, M. T., Goulding, J, and Kypraios T. (2018) On Bayesian inferential tasks with infinite-state jump processes: efficient data augmentation   _Technical report_ [Link](https://arxiv.org/abs/1806.02458)
+1. Perez, I, Chan, L., Torres, M. T., Goulding, J, and Kypraios T. (2018) On Bayesian inferential tasks with infinite-state jump processes: efficient data augmentation,    _Technical report_ [Link](https://arxiv.org/abs/1806.02458)
 
 
-2. Chan, L. (2018) Continuous spectra of substitution-based sequences _PhD thesis_ [Link](http://oro.open.ac.uk/53661/)
+2. Chan, L. (2018) Continuous spectra of substitution-based sequences, _PhD thesis_ [Link](http://oro.open.ac.uk/53661/)
 
 
 
