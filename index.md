@@ -3,6 +3,7 @@
 I am a postdoctoral researcher at the Università degli Studi del Piemonte Orientale “Amedeo Avogadro”. My mentors are Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno) and Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia). 
 
 
+## Core mathematics and statistics publications
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
