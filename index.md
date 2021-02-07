@@ -2,9 +2,6 @@
 
 I am a postdoctoral researcher at the Università degli Studi del Piemonte Orientale “Amedeo Avogadro”. My mentors are Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno) and Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia). 
 
-You can use the [editor on GitHub](https://github.com/Laxchan/Laxchan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
