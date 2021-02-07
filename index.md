@@ -10,7 +10,6 @@ Functional data analysis, in particular small-ball probability.
 ## Core mathematics and statistics publications
 
 1. Chan, L, Silverman, B.W. and Vincent, K. (2020) Multiple systems estimation for Sparse capture data: Inferential challenges when there are non-overlapping lists, 
-
 _Journal of American Statistical Association (Theory & Methods)._ [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1708748) The accompanying **R** package **SparseMSE** is available from [CRAN](https://CRAN.R-project.org/package=SparseMSE )
 
 2. Chan, L, Grimm, U. and Short, I (2018) Substitution-based structures with absolutely continuous spectrum,
