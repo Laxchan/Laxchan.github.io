@@ -36,10 +36,10 @@ _Uniform Distribution Theory_, **9** (2), 125–134. [Link](http://pcwww.liv.ac.
 
 ## PhD thesis and miscellany
 
-1. Perez, I, Chan, L., Torres, M. T., Goulding, J, and Kypraios T. (2018) On Bayesian inferential tasks with infinite-state jump processes: efficient data augmentation   Technical report [Link](https://arxiv.org/abs/1806.02458)
+1. Perez, I, Chan, L., Torres, M. T., Goulding, J, and Kypraios T. (2018) On Bayesian inferential tasks with infinite-state jump processes: efficient data augmentation   _Technical report_ [Link](https://arxiv.org/abs/1806.02458)
 
 
-2. Chan, L. (2018) Continuous spectra of substitution-based sequences [Link](http://oro.open.ac.uk/53661/)
+2. Chan, L. (2018) Continuous spectra of substitution-based sequences _PhD thesis_ [Link](http://oro.open.ac.uk/53661/)
 
 
 
