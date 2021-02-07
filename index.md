@@ -17,8 +17,7 @@ _Journal of American Statistical Association (Theory & Methods)._ [Link](https:/
 2. Chan, L, Grimm, U. and Short, I (2018) Substitution-based structures with absolutely continuous spectrum,
 _Indagationes Mathematicae_,**29** (4), 1072-1086 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0019357718302659) 
 
-3. Chan, L and Grimm, U. (2017) Spectrum of a Rudin–Shapiro-like sequence,  
-_Advances in Applied Mathematics_, **87**, 16-23 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0196885816301397)
+3. Chan, L and Grimm, U. (2017) Spectrum of a Rudin–Shapiro-like sequence,  _Advances in Applied Mathematics_, **87**, 16-23 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0196885816301397)
 
 4. Chan, Kwo*, Nair, R. (2014) Problems in Strong uniform distribution, 
 _Tatra Mt. Math. Publ._ **59**, 51–64. [Link](https://www.mat.savba.sk/ojs/index.php/TATRA/article/view/313)
