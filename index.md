@@ -30,7 +30,7 @@ _Uniform Distribution Theory_, **9** (2), 125–134. [Link](http://pcwww.liv.ac.
 
 ## Comment pieces and refereed conference proceeding
 
-1. Dryden, I. Goulding, J, Preston, S. and Chan, L (2020) Discussion of "Multiple-systems analysis for the quantification of modern slavery: classical and Bayesian approaches" by Silverman (Ian Dryden, James Goulding, Simon Preston, Lax Chan), _Journal of Royal Statistical Society, series A._ [Link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
+1. Dryden, I. Goulding, J, Preston, S. and Chan, L (2020) Discussion of "Multiple-systems analysis for the quantification of modern slavery: classical and Bayesian approaches" by Silverman, _Journal of Royal Statistical Society, series A._ [Link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
 
 2. Chan, L and Grimm, U. (2017) Substitution-based sequences with absolutely continuous diffraction, _Journal of Physics: conference series_, **809** 012027 [Link](https://iopscience.iop.org/article/10.1088/1742-6596/809/1/012027)
 
