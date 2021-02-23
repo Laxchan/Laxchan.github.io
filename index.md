@@ -4,7 +4,9 @@ I am a postdoctoral researcher at the Università degli Studi del Piemonte Orien
 
 ## Research Interests
 
-Functional data analysis, in particular small-ball probability. 
+Functional data analysis, in particular small-ball probability. This is the field I plan to stay on for the foreseeable future. 
+
+
 
 
 
