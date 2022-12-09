@@ -1,16 +1,14 @@
 - layout: left
-  company: Università degli Studi del Piemonte Orientale
+  company: University of Milano-Bicocca
+  link: https://en.unimib.it
   jobs:
-    - title: Junior Assistant Professor (RTD-A)
-      dates: 2022 - Present
-    - title: Postdoctoral research assistant 
-      dates: 2020 - 2022
+    - title: Assistant Professor
+      dates: 2020 - Present
   quote: >
-    DIPARTIMENTO DI STUDI PER L'ECONOMIA E L'IMPRESA (DiSEL),  Università degli Studi del Piemonte Orientale, Italy
+    Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca, Milan, Italy
   description: >
-    I worked as a postdoctoral research assistant under the mentorship of Prof. Aldo Goia and Prof. Enea Bongiorno. I am currently an [Junior Assistant Professor (RTD-A)](https://upobook.uniupo.it/lax.chan).
-    
- - layout: left
+    I am currently an [Assistant Professor](https://en.unimib.it/tommaso-rigon) (_Ricercatore SECS-S/01, Legge 240/10 tipo A_), at [University of Milano-Bicocca](https://en.unimib.it). 
+- layout: left
   company: Duke University
   link: https://www.duke.edu
   jobs:
@@ -31,9 +29,3 @@
     Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
   description: >
     I have been a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and [Collegio Carlo Alberto](https://www.carloalberto.org).
- Systems Estimation and its application to human rights.
-  
-
-
-
-
