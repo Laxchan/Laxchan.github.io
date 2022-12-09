@@ -1,31 +1,32 @@
 - layout: left
-  company: University of Milano-Bicocca
+  company: Università degli Studi del Piemonte Orientale
   link: https://en.unimib.it
   jobs:
     - title: Assistant Professor
-      dates: 2020 - Present
+      dates: 2022 - Present
+    - title: Postdoctoral research assistant 
+      dates: 2020 - 2022
   quote: >
-    Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca, Milan, Italy
+    Dipartimento di STUDI PER L'ECONOMIA E L'IMPRESA (DISEL), Università degli Studi del Piemonte Orientale, Italy
   description: >
-    I am currently an [Assistant Professor](https://en.unimib.it/tommaso-rigon) (_Ricercatore SECS-S/01, Legge 240/10 tipo A_), at [University of Milano-Bicocca](https://en.unimib.it). 
+    I am currently an [Junior Assistant Professor](https://upobook.uniupo.it/lax.chan). I previously was a postdoctoral research assistant in the same department under the supervision of Prof. Aldo Goia and Prof. Enea Bongiorno 
 - layout: left
-  company: Duke University
-  link: https://www.duke.edu
+  company: University of Nottingham
   jobs:
     - title: Postdoctoral Associate
       dates: 2020 - 2020
     - title: Research Associate
       dates: 2019 - 2020
   quote: >
-    Department of Statistical Science, Duke University, Durham, North Carolina, USA
+    Horizon Digital Economy Research Institute and the Rights Lab, University of Nottingham, United Kingdom
   description: >
-    I have been a Research Associate and Postdoctoral Associate at [Duke university](https://www.duke.edu). I worked with prof. [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) and prof. [David Dunson](https://scholars.duke.edu/person/dunson). My research focused on Bayesian methods for robust clustering, dimensionality reduction, and sequential species discovery.
+    I was a research assistant mentored by Dr. Iker Perez and Dr. Mercedes Torres Torres and worked on clustering algorithms and Bayesian inference. I then worked as a research fellow under the mentorship of Sir Bernard Silverman and worked on developing methodlogies in Multiple Systems estimation
+    and its application to human rights.
 - layout: left
-  company: Collegio Carlo Alberto
-  link: https://www.carloalberto.org
+  company: The Open University, Milton Keynes
   job_title: Research Affiliate
   dates: 2017 - 2020
   quote: >
-    Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
+    Knowledge Media Institute, The Open University, Milton Keynes, United Kingdom
   description: >
-    I have been a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and [Collegio Carlo Alberto](https://www.carloalberto.org).
+    Funded by AND Technology and Research, I worked under the supervision of Dr. Danica Greetham on energy disaggregation algorithms
