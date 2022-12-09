@@ -24,11 +24,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a junior assistant professor (RTD-A) at the Università degli Studi del Piemonte Orientale under the mentorship of Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia) and Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno).
   
-  My research interests are:
+  My research interests are in Functional data analysis (Small-ball probability, Single Functional Index Model and Multiple Systems estimation and its application to human rights.
   
-  - Functional data analysis (Small-ball probability, Single Functional Index Model)
-  
-  - Multiple Systems estimation and its application to human rights
+# Teaching Section
+teaching_title: Teaching at Università degli Studi del Piemonte Orientale
+teaching_content: |
+
+ **Laurea Magistrale course**
+    - Statistics for Finance, Laurea magistrale course, Università degli Studi del Piemonte Orientale.
 
 
 
