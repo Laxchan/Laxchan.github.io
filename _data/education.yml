@@ -16,7 +16,13 @@
   quote: >
     University of Liverpool, United Kingdom
   description: | # this will include new lines to allow paragraphs
-    I specialised in Pure mathematics, in particular on geometry and number theory. Advisor: [Dr. Radhakrishnan Nair](https://www.liverpool.ac.uk/mathematical-sciences/staff/radhakrishnan-nair/). Thesis title: [Dynamics of low-discrepancy sequences].
+    I specialised in Pure mathematics, in particular on geometry and number theory. 
+    
+    Thesis title: Dynamics of low-discrepancy sequences
+    
+    Advisor: [Dr. Radhakrishnan Nair](https://www.liverpool.ac.uk/mathematical-sciences/staff/radhakrishnan-nair/). 
+    
+    
 
 - layout: left
   name: University of Liverpool
@@ -25,4 +31,8 @@
   quote: >
     niversity of Liverpool, United Kingdom
   description: | # this will include new lines to allow paragraphs
-    I have taken a range of Pure, applied mathematics and statistics courses. In the third year, I specialised in Pure mathematics.  Advisor: [Prof. Anna Pratoussevitch](http://pcwww.liv.ac.uk/~annap/). Thesis title: [Tiling with dominmoes].
+    I have taken a range of Pure, applied mathematics and statistics courses. In the third year, I specialised in Pure mathematics.  
+    
+    Thesis title: [Tiling with dominmoes].
+    
+    Advisor: [Prof. Anna Pratoussevitch](http://pcwww.liv.ac.uk/~annap/). 
