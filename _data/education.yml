@@ -1,18 +1,17 @@
 # Education Template
 - layout: left
-  name: Bocconi University
-  dates: 2015 - 2020
-  qualification: Ph.D. in Statistical Sciences
-  link: https://www.unibocconi.eu/
+  name: The Open University Milton Keynes
+  dates: 2014 - 2018
+  qualification: Ph.D. in Mathematics
   quote: >
-    Bocconi University, Milan, Italy
+    The Open University, Milton Keynes, United Kingdom
   description: | # this will include new lines to allow paragraphs
-    I have been awarded a merit based 4-year fellowship. I worked under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/). Thesis title: [*Finite-dimensional nonparametric priors: theory and applications*](files/papers/PhDThesis.pdf). Ph.D. awarded with honors.
+    I worked under the joint supervision of  Professor Uwe Grimm and Dr. Ian Short. Thesis title: [*Continuous spectra for substitution-based sequences*](http://oro.open.ac.uk/53661/). Defended in 2017.
 
 - layout: left
-  name: University of Padova
-  dates: 2013 - 2015
-  qualification: M.Sc. in Statistical Sciences
+  name: University of Liverpool
+  dates: 2013 - 2014
+  qualification: M.Sc. in Mathematical Sciences
   link: https://www.unipd.it
   quote: >
     Università degli studi di Padova, Padua, Italy
