@@ -9,24 +9,26 @@
   quote: >
     Dipartimento di STUDI PER L'ECONOMIA E L'IMPRESA (DISEL), Università degli Studi del Piemonte Orientale, Italy
   description: >
-    I am currently an [Junior Assistant Professor](https://upobook.uniupo.it/lax.chan). I previously was a postdoctoral research assistant in the same department under the supervision of Prof. Aldo Goia and Prof. Enea Bongiorno 
+    I am currently an [Junior Assistant Professor](https://upobook.uniupo.it/lax.chan). I previously was a postdoctoral research assistant in the same department under the 
+    supervision of Prof. Aldo Goia and Prof. Enea Bongiorno 
+- layout: left
+  company: The Open University, Milton Keynes
+  job_title: Research Affiliate
+  dates: 2019 - 2020
+  quote: >
+    Knowledge Media Institute, The Open University, Milton Keynes, United Kingdom
+  description: >
+    Funded by AND Technology and Research, I worked under the supervision of Dr. Danica Greetham on energy disaggregation algorithms
 - layout: left
   company: University of Nottingham
   jobs:
     - title: Postdoctoral Associate
-      dates: 2020 - 2020
+      dates: 2018 - 2019
     - title: Research Associate
-      dates: 2019 - 2020
+      dates: 2017 - 2018
   quote: >
     Horizon Digital Economy Research Institute and the Rights Lab, University of Nottingham, United Kingdom
   description: >
     I was a research assistant mentored by Dr. Iker Perez and Dr. Mercedes Torres Torres and worked on clustering algorithms and Bayesian inference. I then worked as a research fellow under the mentorship of Sir Bernard Silverman and worked on developing methodlogies in Multiple Systems estimation
     and its application to human rights.
-- layout: left
-  company: The Open University, Milton Keynes
-  job_title: Research Affiliate
-  dates: 2017 - 2020
-  quote: >
-    Knowledge Media Institute, The Open University, Milton Keynes, United Kingdom
-  description: >
-    Funded by AND Technology and Research, I worked under the supervision of Dr. Danica Greetham on energy disaggregation algorithms
+
