@@ -11,17 +11,27 @@
     I worked as a postdoctoral research assistant under the mentorship of Prof. Aldo Goia and Prof. Enea Bongiorno. I am currently an [Junior Assistant Professor (RTD-A)](https://upobook.uniupo.it/lax.chan).
     
  - layout: left
-  company: University of Nottingham
-  #link: https://www.duke.edu
+  company: Duke University
+  link: https://www.duke.edu
   jobs:
-    - title: Research fellow
-      dates: 2018 - 2019
-    - title: Research Assistant 
-      dates: 2017 - 2018
+    - title: Postdoctoral Associate
+      dates: 2020 - 2020
+    - title: Research Associate
+      dates: 2019 - 2020
   quote: >
-    Horizon Digital Economy Research Institute and the Rights Lab, University of Nottingham, United Kingdom
-  description: > 
-  I worked as a research assistant under the mentorship of Dr. Iker Perez and Dr. Mercedes Torres Torres on clustering algorithms and Bayesian inference. As a reserach fellow, I worked with Prof. Bernard Silverman on developing methodologies in Multiple Systems Estimation and its application to human rights.
+    Department of Statistical Science, Duke University, Durham, North Carolina, USA
+  description: >
+    I have been a Research Associate and Postdoctoral Associate at [Duke university](https://www.duke.edu). I worked with prof. [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) and prof. [David Dunson](https://scholars.duke.edu/person/dunson). My research focused on Bayesian methods for robust clustering, dimensionality reduction, and sequential species discovery.
+- layout: left
+  company: Collegio Carlo Alberto
+  link: https://www.carloalberto.org
+  job_title: Research Affiliate
+  dates: 2017 - 2020
+  quote: >
+    Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
+  description: >
+    I have been a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and [Collegio Carlo Alberto](https://www.carloalberto.org).
+ Systems Estimation and its application to human rights.
   
 
 
