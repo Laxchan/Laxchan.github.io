@@ -12,10 +12,7 @@
 
       {%- include about.html -%}
       
-      {%- if site.teaching_content -%}
-      {%- include teaching.html -%}
-      {%- endif -%}
-
+      
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
@@ -31,7 +28,10 @@
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
-
+     
+      {%- if site.teaching_content -%}
+      {%- include teaching.html -%}
+      {%- endif -%}
 
 
       
