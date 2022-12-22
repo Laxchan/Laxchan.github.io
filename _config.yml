@@ -29,13 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   If you are interested in a more detailed CV, please click below.
   
   [<mark>Download curriculum vitae</mark>](/files/CV_Lax.pdf)
-# Teaching Section
-teaching_title: Teaching at UPO
-teaching_content: |
 
- **Laurea Magistrale course**
-    - Statistics for Finance 
-    
 # Projects Section
 projects_title: Academic Positions
 
@@ -94,6 +88,15 @@ more_content: |
   
   1. **Chan, L.**, Grimm, U. Substitution-based sequences with absolutely continuous diffraction, *Journal of Physics: Conference Series* **809**(012027)
   [[Link]](https://iopscience.iop.org/article/10.1088/1742-6596/809/1/012027)
+  
+# Teaching Section
+teaching_title: Teaching at UPO
+teaching_content: |
+
+ **Laurea Magistrale course**
+    - Statistics for Finance 
+    
+    This section will be updated in due course.
   
   
   
