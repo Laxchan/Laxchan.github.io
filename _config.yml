@@ -45,6 +45,8 @@ more_content: |
 
   **Articles in refereed journals**
   
+  1. **Chan, L.**, Delsol, L., Goia, A. (2022). A link function specification test in the Single Functional Index Model. Accepted at *Advances in Data Analysis and Classification*
+  
   1. **Chan, L.**, Silverman, B.W., Vincent, K. (2021). Multiple Systems Estimation for sparse capture data: inferential challenges when 
   there are non-overlapping lists. *Journal of American Statistical Association* **116**(535), 1297--1306. [[Link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1708748)
   [[R package]](https://cran.r-project.org/web/packages/SparseMSE/index.html)
@@ -68,9 +70,9 @@ more_content: |
   
   **Submitted papers** 
   
-  1. **Chan, L.**, Delsol, L., Goia, A. (2022). A link function specification test in the Single Functional Index Model.
+  1. Bongiorno, E. G., **Chan, L.**, Goia. A. (2021). Detecting the complexitiy of a Functional time series. (Under revision)
   
-  1. Bongiorno, E. G., **Chan, L.**, Goia. A. (2021). Detecting the complexitiy of a Functional time series.
+  1. Silverman, B.W., Vincent, K., **Chan, L.** (2023). Bootstrapping multiple systems estimates to account for model selection. (Preprint) [[arXiv]](https://arxiv.org/abs/2303.17856)
   
   **Conference proceedings and technical report**
   
