@@ -24,7 +24,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a junior assistant professor (RTD-A) at the Università degli Studi del Piemonte Orientale under the mentorship of Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia) and Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno).
   
-  My research interests are in Functional data analysis (Small-ball probability, Single Functional Index Model) and Multiple Systems estimation and its application to human rights.
+  My research interests are in Functional data analysis (Small-ball probability, Single Functional Index Model) and Multiple Systems estimation and its application to human rights. 
   
   If you are interested in a more detailed CV, please click below.
   
@@ -45,7 +45,7 @@ more_content: |
 
   **Articles in refereed journals**
 
-  1. Silverman, B.W., **Chan, L.**, Vincent, K. (2023). Bootstrapping Multiple Systems Estimates to Account for Model Selection. *Statistics and Computing* [[Link]](https://doi.org/10.1007/s11222-023-10346-9)
+  1. Silverman, B.W., **Chan, L.**, Vincent, K. (2024). Bootstrapping Multiple Systems Estimates to Account for Model Selection. *Statistics and Computing* **34**(44) [[Link]](https://doi.org/10.1007/s11222-023-10346-9)
 
   1. Bongiorno, E. G., **Chan, L.**, Goia. A. (2023). Detecting the complexitiy of a Functional time series. *Journal of Nonparametric Statistics* 
   [[Link]](https://doi.org/10.1080/10485252.2023.2234507)
@@ -85,7 +85,7 @@ more_content: |
   1. **Chan, L.** (2023) On specifying a link function of a single functional index model. *COMPSTAT 2023 Book of Abstracts*, ISBN 9789073592414
   [[Link]](http://www.compstat2023.org/BoA.php)
 
-  1. **Chan, L.**, Goia, A. (2023) Goodness--of--fit test for the single functional index model. *Cladag 2023 book of short papers*, ISBN 978-88-9193-563-2 
+  1. **Chan, L.**, Goia, A. (2023) Goodness--of--fit test for the single functional index model. *Cladag 2023 Book of short papers*, ISBN 978-88-9193-563-2 
   [[Link]](https://www.statlab-unisa.it/cladag2023/book-of-abstracts/)
   
   1. **Chan, L.** (2022) A specification test for the single functional index model. *CFE-CMStatistics 2022 Book of Abstracts*, ISBN 9789925781263
@@ -119,6 +119,9 @@ awards_content: |
 # Teaching Section
 teaching_title: Teaching at UPO 
 teaching_content: |
+
+**Laurea trienalle course**
+  - Laboratorio di Statistics (2023-present)
 
  **Laurea Magistrale course**
     - Statistics for Finance (2022-Present)
