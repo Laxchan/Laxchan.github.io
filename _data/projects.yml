@@ -1,14 +1,23 @@
 - layout: left
+  company: School of Mathematics, University of Birmingham
+  jobs:
+    - title: Assistant Professor
+      dates: July 2024 - present
+quote: >
+    School of Mathematics, Universiy of Birmingham, United Kingdom
+  description: >
+    Since July 2024, I am an assistant professor of Statistics in the School of Mathematics, University of Birmingham, United Kingdom
+- layout: left
   company: Università degli Studi del Piemonte Orientale
   jobs:
     - title: Assistant Professor
-      dates: 2022 - Present
+      dates: 2022 - July 2024
     - title: Postdoctoral research assistant 
       dates: 2020 - 2022
   quote: >
     Dipartimento di STUDI PER L'ECONOMIA E L'IMPRESA (DISEL), Università degli Studi del Piemonte Orientale, Italy
   description: >
-    I am currently an [Junior Assistant Professor](https://upobook.uniupo.it/lax.chan). I previously was a postdoctoral research assistant in the same department under the 
+    I was an [Junior Assistant Professor](https://upobook.uniupo.it/lax.chan) under the mentorship of Prof. Aldo Goia and Professor Bongiorno until July 2024. I previously was a postdoctoral research assistant in the same department under the 
     supervision of Prof. Aldo Goia and Prof. Enea Bongiorno 
 - layout: left
   company: The Open University, Milton Keynes
