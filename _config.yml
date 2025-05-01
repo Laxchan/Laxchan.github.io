@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Lax Chan
-title: Assistant professor of Statistics at the University of Birmingham 
-email: l.chan.1@bham.ac.uk
+title: RTT at the Università degli Studi del Piemonte Orientale 
+email: lax.chan@uniupo.it
 
 
 # Dark Mode (true/false/never)
@@ -23,23 +23,23 @@ github_username:  Laxchan
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   
-  I am currently a tenure track assistant professor of statistics at the School of Mathematics, University of Birmingham.
-  Until July 2024, I was a junior assistant professor (RTD-A) at the Università degli Studi del Piemonte Orientale under the mentorship of Prof. [Aldo Goia](https://upobook.uniupo.it/aldo.goia) and Prof. [Enea Bongiorno](https://upobook.uniupo.it/enea.bongiorno).
-  
-  My main research interests are in Functional data analysis (specifically in Small-ball probability, Single Functional Index Model). Previously, I was interested in Multiple Systems estimation and its application to human rights. 
+  I am currently a RTT of statistics at the Università degli Studi del Piemonte Orientale and an honorary assistant professor of statistics with the School of 
+  Mathematics, University of Birmingham, United Kingdom. I previously worked at the University of Birmingham as an assitant professor of Statistics.
+   
+  My main research interests are in Functional data analysis (specifically in Small-ball probability, Single Functional Index Model). I am also interested in Multiple Systems estimation and its application. 
   
   If you are interested in a more detailed CV, please click below.
   
   [<mark>Download curriculum vitae</mark>](/files/CV_Lax.pdf)
 
 # Projects Section
-projects_title: Academic Positions
+#projects_title: Academic Positions
 
 # Experience Section
 #experience_title: Industry Experience
 
 # Education Section
-education_title: Education
+#education_title: Education
 
 # More Section
 more_title: Publications
