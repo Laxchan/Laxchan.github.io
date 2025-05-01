@@ -23,8 +23,8 @@ github_username:  Laxchan
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   
-  I am currently a RTT of statistics at the Università degli Studi del Piemonte Orientale and an honorary assistant professor of statistics with the School of 
-  Mathematics, University of Birmingham, United Kingdom. I previously worked at the University of Birmingham as an assitant professor of Statistics.
+  I am currently a RTT of statistics at the Università degli Studi del Piemonte Orientale, Italy and an honorary assistant professor of statistics with the School of 
+  Mathematics, University of Birmingham, United Kingdom, where until May 2024, I worked as an assistant professor of Statistics.
    
   My main research interests are in Functional data analysis (specifically in Small-ball probability, Single Functional Index Model). I am also interested in Multiple Systems estimation and its application. 
   
@@ -72,45 +72,6 @@ more_content: |
   
   **Submitted papers** 
 
-  
-  **Conference proceedings and technical report**
-
-  1. Bongiorno, E.G., **Chan, L.**, Goia, A. (2023) Nonparametric dimensionality detection for functional data *COMPSTAT 2023 Book of Abstracts*, ISBN 9789073592414
-  [[Link]](http://www.compstat2023.org/BoA.php)
-
-  1. **Chan, L.** (2023) On specifying a link function of a single functional index model. *COMPSTAT 2023 Book of Abstracts*, ISBN 9789073592414
-  [[Link]](http://www.compstat2023.org/BoA.php)
-
-  1. **Chan, L.**, Goia, A. (2023) Goodness--of--fit test for the single functional index model. *Cladag 2023 Book of short papers*, ISBN 978-88-9193-563-2 
-  [[Link]](https://www.statlab-unisa.it/cladag2023/book-of-abstracts/)
-  
-  1. **Chan, L.** (2022) A specification test for the single functional index model. *CFE-CMStatistics 2022 Book of Abstracts*, ISBN 9789925781263
-  [[Link]](http://www.cmstatistics.org/CMStatistics2022/BoA.php)
-  
-  1. Bongiorno, E.G., **Chan, L.**, Goia, A. (2021) Evaluating the complexity of a functional time series. *CFE-CMStatistics 2021 Book of Abstracts*, ISBN 9789925781256
-  [[Link]](http://www.cmstatistics.org/CMStatistics2021/BoA.php)
-  
-  1. Bongiorno, E.G., **Chan, L.**, Goia, A., Vieu, P. (2021) About the complexity of a functional time series. *IWFOS 2021 Book of Abstracts*
-  [[Link]](https://iwfos2021.sci.muni.cz/programme)
-  
-  1. Perez, I., **Chan, L.**, Torres, T. M., Goulding, J., Kypraios, T. (2018) On Bayesian inferential tasks with infinite-state jump processes: 
-  efficient data augmentation. **Technical report** [[arXiv]](https://arxiv.org/abs/1806.02458)
-  
-  1. **Chan, L.**, Grimm, U. Substitution-based sequences with absolutely continuous diffraction, *Journal of Physics: Conference Series* **809**(012027)
-  [[Link]](https://iopscience.iop.org/article/10.1088/1742-6596/809/1/012027)
-  
-  
-# More Section
-awards_title: Awards
-awards_content: |
-    **Academic awards**
-    - Young scientist award to attend International conference on Quasicrystals Kathmandu, Nepal 2016
-    - Partial funding to attend thematic month Oleron, France 2-16
-    - Fully funded studentship with stipend 2014-2017
-    - Liverpool affinity award 2013-2014
-    - Faculty of physical sciences and engineering post graduate scholarship 2013-2014
-    - University of Liverpool Departmental Scholarship for M.Sc. students 2013-2014
-    - University of Liverpool Regional award 2010-2013
   
 
   
